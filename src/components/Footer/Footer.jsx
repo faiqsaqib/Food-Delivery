@@ -83,7 +83,7 @@ const Footer = () => {
               </span>
 
               <span>
-                <Link to="https://github.com/muhib160">
+                <Link to="https://github.com/faiqsaqib">
                   <i class="ri-github-line"></i>
                 </Link>
               </span>
@@ -97,7 +97,7 @@ const Footer = () => {
 
               <span>
                 {" "}
-                <Link to=" https://www.linkedin.com/in/muhib160/">
+                <Link to="https://www.linkedin.com/in/m-faiq-saqib-220b4b278/">
                   <i class="ri-linkedin-line"></i>
                 </Link>{" "}
               </span>
